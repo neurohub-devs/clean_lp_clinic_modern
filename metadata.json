@@ -1,0 +1,6 @@
+{
+  "name": "Aura Estética",
+  "description": "Clínica de estética avançada com tecnologia de ponta e tratamentos personalizados.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
